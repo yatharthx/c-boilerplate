@@ -1,0 +1,11 @@
+# files
+.DS_Store
+
+# build directories
+# (change these if Makefile is edited)
+obj
+bin
+
+# release file
+*.zip
+
